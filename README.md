@@ -1,7 +1,7 @@
 # wenzel_database_parser
 Programatically parse a Wenzel CMM Access database.
 
-# Overview
+## Overview
 
 The class herein exposes routines to interact programatically with the access database produced by a Wenzel CMM and allows the user to convert between the machine coordinate system (MCS) and part coordinate systems (PCS). It works by processing "measurements" in a Quartis CMM database. Each measurement contains a group of "elements"; these are circles, spheres, lines etc. 
       
