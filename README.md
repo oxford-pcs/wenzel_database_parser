@@ -10,3 +10,4 @@ The Quartis CMM database has two pertinent tables to record the information take
 There may also exist several PCSs for each measurement. In this case, the user is required to specify a "csId", which uniquely identifies a PCS in the database. The default for this is 1.
       
 For each element in a measurement, there will be a unique "elRecNr".
+
